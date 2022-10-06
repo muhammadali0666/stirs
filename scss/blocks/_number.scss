@@ -1,0 +1,229 @@
+.number {
+  background-color: #191919;
+  background-image: url(../../img/number-bg.png);
+  background-repeat: no-repeat;
+  background-position: calc(50% - 350px);
+  background-size: contain;
+}
+.number-inner {
+  padding-top: 302px;
+  padding-bottom: 212px;
+}
+.number-box {
+  max-width: 482px;
+  margin-left: auto;
+}
+.number-p {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #FF573D;
+margin-bottom: 13px;
+}
+.nuber-paragraph {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+margin-bottom: 143px;
+}
+.number-list {
+  padding-left: 0;
+}
+.number-item {
+  display: flex;
+  align-items: center;
+}
+.number-img {
+  margin-right: 8px;
+}
+.number-text {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #FFFFFF;
+}
+.number-text + .number-text {
+  margin-top: 10px;
+}
+@media only screen and (max-width: 1000px) {
+  .number {
+    background-color: #191919;
+    background-image: url(../../img/number-bg.png);
+    background-repeat: no-repeat;
+    background-position: calc(50% - 300px);
+    background-size: contain;
+  }
+  .number-inner {
+    padding-top: 102px;
+    padding-bottom: 112px;
+  }
+  .number-box {
+    max-width: 482px;
+    margin-left: auto;
+  }
+  .number-p {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #FF573D;
+  margin-bottom: 13px;
+  }
+  .nuber-paragraph {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-bottom: 43px;
+  }
+  .number-list {
+    padding-left: 0;
+  }
+  .number-item {
+    display: flex;
+    align-items: center;
+  }
+  .number-img {
+    margin-right: 8px;
+  }
+  .number-text {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+  }
+  .number-text + .number-text {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 672px) {
+  .number {
+    background-color: #191919;
+    background-image: url(../../img/number-bg.png);
+    background-repeat: no-repeat;
+    background-position: calc(50% - 1300px);
+    background-size: contain;
+  }
+  .number-inner {
+    padding-top: 102px;
+    padding-bottom: 112px;
+  }
+  .number-box {
+    max-width: 482px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .number-p {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #FF573D;
+  margin-bottom: 13px;
+  }
+  .nuber-paragraph {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-bottom: 43px;
+  }
+  .number-list {
+    padding-left: 0;
+  }
+  .number-item {
+    display: flex;
+    align-items: center;
+  }
+  .number-img {
+    margin-right: 8px;
+  }
+  .number-text {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+  }
+  .number-text + .number-text {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 427px) {
+  .number {
+    background-color: #191919;
+    background-image: url(../../img/number-bg.png);
+    background-repeat: no-repeat;
+    background-position: calc(50% - 1300px);
+    background-size: contain;
+  }
+  .number-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 72px;
+    padding-bottom: 72px;
+  }
+  .number-box {
+    max-width: 482px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .number-p {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #FF573D;
+  margin-bottom: 13px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .nuber-paragraph {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-bottom: 23px;
+  }
+  .number-list {
+    padding-left: 0;
+  }
+  .number-item {
+    display: flex;
+    align-items: center;
+  }
+  .number-img {
+    margin-right: 8px;
+  }
+  .number-text {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #FFFFFF;
+  }
+  .number-text + .number-text {
+    margin-top: 10px;
+  }
+}

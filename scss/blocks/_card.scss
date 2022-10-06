@@ -1,0 +1,261 @@
+.card-inner {
+  padding-top: 207px;
+  padding-bottom: 179px;
+}
+.card-paragraph {
+  max-width: 794px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+color: #191919;
+margin-bottom: 211px;
+margin-left: auto;
+margin-right: auto;
+}
+.card-box {
+  display: flex;
+  align-items: center;
+  background: #F7F2E4;
+border-radius: 7.99488px;
+padding: 52px;
+}
+.card-img-box {
+position: relative;
+}
+.card-img {
+  margin-right: 39px;
+}
+.card-box-right-btn {
+  border: 1px solid #6EE4B5;
+border-radius: 57.5631px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 12px;
+color: #191919;
+padding: 6px 13px;
+background-color: transparent;
+margin-bottom: 53px;
+}
+.card-right-paragraph {
+ margin: 0;
+ padding: 0;
+ font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: #191919;
+margin-bottom: 119px;
+}
+.card-list {
+  padding-left: 0;
+}
+.card-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-right-text {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 14px;
+color: #191919;
+margin: 0;
+}
+.card-hr {
+  background: #FFFFFF;
+}
+.card-link-img-p {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+color: #191919;
+margin: 0;
+padding: 0;
+}
+@media only screen and (max-width: 900px) {
+  .card-inner {
+    padding-top: 107px;
+    padding-bottom: 79px;
+  }
+  .card-paragraph {
+    max-width: 794px;
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 28px;
+  text-align: center;
+  color: #191919;
+  margin-bottom: 111px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .card-box {
+    display: flex;
+    align-items: center;
+    background: #F7F2E4;
+  border-radius: 7.99488px;
+  padding: 22px;
+  }
+  .card-img-box {
+  position: relative;
+  }
+  .card-img {
+    margin-right: 29px;
+  }
+  .card-box-right-btn {
+    border: 1px solid #6EE4B5;
+  border-radius: 57.5631px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 12px;
+  color: #191919;
+  padding: 6px 13px;
+  background-color: transparent;
+  margin-bottom: 23px;
+  }
+  .card-right-paragraph {
+   margin: 0;
+   padding: 0;
+   font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  color: #191919;
+  margin-bottom: 59px;
+  }
+  .card-list {
+    padding-left: 0;
+  }
+  .card-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .card-right-text {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 14px;
+  color: #191919;
+  margin: 0;
+  }
+  .card-hr {
+    background: #FFFFFF;
+  }
+  .card-link-img-p {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #191919;
+  margin: 0;
+  padding: 0;
+  }
+}
+@media only screen and (max-width: 770px) {
+  .card-inner {
+    padding-top: 67px;
+    padding-bottom: 69px;
+  }
+  .card-paragraph {
+    max-width: 794px;
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #191919;
+  margin-bottom: 51px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .card-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #F7F2E4;
+  border-radius: 7.99488px;
+  padding: 22px;
+  }
+  .card-img-box {
+  position: relative;
+  }
+  .card-img {
+    margin-right: 0px;
+    margin-bottom: 40px;
+  }
+  .card-box-right-btn {
+    border: 1px solid #6EE4B5;
+  border-radius: 57.5631px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 12px;
+  color: #191919;
+  padding: 6px 13px;
+  background-color: transparent;
+  margin-bottom: 23px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  }
+  .card-right-paragraph {
+   margin: 0;
+   padding: 0;
+   font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  color: #191919;
+  margin-bottom: 59px;
+  }
+  .card-list {
+    padding-left: 0;
+  }
+  .card-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .card-right-text {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 14px;
+  color: #191919;
+  margin: 0;
+  }
+  .card-hr {
+    background: #FFFFFF;
+  }
+  .card-link-img-p {
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #191919;
+  margin: 0;
+  padding: 0;
+  }
+}
